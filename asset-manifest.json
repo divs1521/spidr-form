@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spidr-form/static/css/main.07959bb4.css",
+    "main.js": "/spidr-form/static/js/main.8a235eee.js",
+    "index.html": "/spidr-form/index.html",
+    "main.07959bb4.css.map": "/spidr-form/static/css/main.07959bb4.css.map",
+    "main.8a235eee.js.map": "/spidr-form/static/js/main.8a235eee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07959bb4.css",
+    "static/js/main.8a235eee.js"
+  ]
+}
